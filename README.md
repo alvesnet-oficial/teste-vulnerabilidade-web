@@ -6,6 +6,8 @@ https://dominios.x.x/wp-json/wp/v2/users
 
 Resolução:
 
+Use este trecho de código para esconder a lista de usuários e dar 404 como resultado, enquanto o resto das chamadas de api continuarão funcionando como estavam.
+
 Acessar o arquivo 'functions.php' no Wordpress e adicinar o seguinte codigo:
 
 add_filter( 'rest_endpoints', function( $endpoints ){
