@@ -1,5 +1,7 @@
 # Como testar a vulnerablidade de um site wordpress:
 
+fonte: https://www.ti-enxame.com/pt/security/wordpress-4.7.1-rest-api-ainda-expondo-usuarios/961954884/
+
 Dados sensiveis exposto:
 
 https://dominios.x.x/wp-json/wp/v2/users
